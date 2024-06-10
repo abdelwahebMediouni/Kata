@@ -1,0 +1,9 @@
+com\kata\automate\model\Automate.class
+com\kata\automate\Application.class
+com\kata\automate\model\Orientation.class
+com\kata\automate\model\Coordinate.class
+com\kata\automate\service\impl\LawnMowerServiceImpl.class
+com\kata\automate\model\Grid.class
+com\kata\automate\model\PivoteDirection.class
+com\kata\automate\service\impl\LawnMowerServiceImpl$1.class
+com\kata\automate\service\LawnMowerService.class
